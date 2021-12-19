@@ -1,4 +1,4 @@
-# Web-Censorship
+# READ ME
 1. How to run the code:
 - To run the code, you need to log into the ssh server then open two terminals. On one terminal 
 we want to run the code using the command: gcc A1-441.c -o A1-441. After running the code,
