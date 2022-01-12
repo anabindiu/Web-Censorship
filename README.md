@@ -1,5 +1,5 @@
 # HOW TO RUN THE CODE:
-- To run the code, you need to log into the ssh server then open two terminals. On one terminal 
+- To run the code, you need to open two terminals. On one terminal 
 we want to run the code using the command: gcc A1-441.c -o A1-441. After running the code,
 we want to start connecting to the client through our proxy server. To do that, we need to go to 
 Firefox (download if u don’t have it), then go to settings and then Manual proxy configuration. In 
